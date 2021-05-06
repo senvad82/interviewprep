@@ -1,0 +1,13 @@
+C:\senvadpersonal\amazon\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.exe
+C:\senvadpersonal\amazon\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.deps.json
+C:\senvadpersonal\amazon\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.json
+C:\senvadpersonal\amazon\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.dev.json
+C:\senvadpersonal\amazon\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\senvadpersonal\amazon\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\senvadpersonal\amazon\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csprojAssemblyReference.cache
+C:\senvadpersonal\amazon\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfoInputs.cache
+C:\senvadpersonal\amazon\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfo.cs
+C:\senvadpersonal\amazon\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\senvadpersonal\amazon\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\senvadpersonal\amazon\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\senvadpersonal\amazon\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.genruntimeconfig.cache
